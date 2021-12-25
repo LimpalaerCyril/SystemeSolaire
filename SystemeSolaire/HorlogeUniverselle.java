@@ -11,7 +11,6 @@ public class HorlogeUniverselle {
         int jour=0;
 
         do{
-
             long milliModif = System.currentTimeMillis();
 
             milliWhile = milliModif - milliInit;
@@ -25,9 +24,4 @@ public class HorlogeUniverselle {
         }
         while (milliWhile < 15000);
     }
-
-    //début du prog : 1594805911400
-    
-    //Pendant le prog : 1594805913400
-
 }
