@@ -8,9 +8,9 @@ public class HorlogeUniverselle {
         long milliPerso = System.currentTimeMillis();
         long milliWhile = 0;
         long milliEcoulee = 0;
-        int jour=1;
+        int jour=0;
 
-        while (milliWhile < 15000){
+        do{
 
             long milliModif = System.currentTimeMillis();
 
@@ -23,10 +23,11 @@ public class HorlogeUniverselle {
                 milliPerso = System.currentTimeMillis();
             }
         }
+        while (milliWhile < 15000);
     }
 
     //début du prog : 1594805911400
-
+    
     //Pendant le prog : 1594805913400
 
 }
