@@ -60,22 +60,3 @@ public class Astres{
     
     
 }
-
-// SystemeSolaire.setPenColor(Soleil.getCouleur());
-        // SystemeSolaire.circle(1.25, -0.25, Soleil.getRayon()/10000000);
-        // SystemeSolaire.setPenColor(Terre.getCouleur());
-        // SystemeSolaire.circle(1.25+Terre.getDistSoleil()/5000, -0.25, Terre.getRayon()/1000000);
-        // SystemeSolaire.setPenColor(Mars.getCouleur());
-        // SystemeSolaire.circle(1.25+Mars.getDistSoleil()/5000, -0.25, Mars.getRayon()/1000000);
-        // SystemeSolaire.setPenColor(Mercure.getCouleur());
-        // SystemeSolaire.circle(1.25+Mercure.getDistSoleil()/5000, -0.25, Mercure.getRayon()/1000000);
-        // SystemeSolaire.setPenColor(Jupiter.getCouleur());
-        // SystemeSolaire.circle(1.25+Jupiter.getDistSoleil()/5000, -0.25, Jupiter.getRayon()/1000000);
-        // SystemeSolaire.setPenColor(Venus.getCouleur());
-        // SystemeSolaire.circle(1.25+Venus.getDistSoleil()/5000, -0.25, Venus.getRayon()/1000000);
-        // SystemeSolaire.setPenColor(Saturne.getCouleur());
-        // SystemeSolaire.circle(1.25+Saturne.getDistSoleil()/5000, -0.25, Saturne.getRayon()/1000000);
-        // SystemeSolaire.setPenColor(Uranus.getCouleur());
-        // SystemeSolaire.circle(1.25+Uranus.getDistSoleil()/5000, -0.25, Uranus.getRayon()/1000000);
-        // SystemeSolaire.setPenColor(Neptune.getCouleur());
-        // SystemeSolaire.circle(1.25+Neptune.getDistSoleil()/5000, -0.25, Neptune.getRayon()/1000000);
